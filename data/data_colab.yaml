@@ -1,0 +1,4 @@
+train: /content/data/zalo_chalenger/data/za_traffic_2020/traffic_train/train/images
+val: /content/data/zalo_chalenger/data/za_traffic_2020/traffic_train/val/images
+nc: 7
+names: ["1","2","3","4","5","6","7"]
